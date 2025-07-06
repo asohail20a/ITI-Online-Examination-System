@@ -13,7 +13,7 @@ The system simulates a digital exam platform and focuses on data handling, analy
 - 📊 **BI Reporting with SSRS**: Developed structured reports for admins and stakeholders.
 - 📈 **Interactive Dashboards with Power BI**: Delivered insightful, user-friendly dashboards for monitoring performance, user behavior, and exam statistics.
 
-## 📂 Tech Stack
+## 📂 Technology Stack
 
 - **Database**: Microsoft SQL Server
 - **Data Warehousing**: Star Schema, ETL Process
@@ -21,6 +21,39 @@ The system simulates a digital exam platform and focuses on data handling, analy
   - Microsoft SSRS (SQL Server Reporting Services)
   - Power BI
 - **Others**: SQL, DAX, T-SQL, Data Modeling
+
+## 📊 Database Schema
+
+### Key Entities
+
+#### Student
+  - **ST_ID (Primary Key)** - Unique identifier
+  - **First_Name, Last_Name** - Student's name
+  - **E_mail** - Login email
+  - **Password** - Encrypted password
+  - **Company_ID, Intake_ID, Track_ID, Branch_ID** - Organizational links
+
+#### Instructor
+  - **Instructor_ID (Primary Key)** - Unique identifier
+  - **Name** - Full name
+  - **Email** - Contact email
+  - **Password** - Encrypted password
+  - **Specialization** - Area of expertise
+
+#### Exam
+  - **Exam_ID (Primary Key)** - Unique identifier
+  - **Title** - Exam Title
+  - **Duration** - Time limit in minutes
+  - **Total_Marks** - Maximum score
+  - **Status** - Active, Inactive, Draft
+  - **Created_Date** - Creation timestamp
+
+#### Question
+  - **Question_ID (Primary Key)** - Unique identifier
+  - **Question_Text** - Question content
+  - **Question_Type** - MCQ, True/False
+  - **Difficulty_Level** - Easy, Medium, Hard
+  - **Course_ID** - Associated course
 
 ## 📈 Sample Reports & Dashboards
 

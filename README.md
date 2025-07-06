@@ -24,11 +24,38 @@ The system simulates a digital exam platform and focuses on data handling, analy
 
 ## 📈 Sample Reports & Dashboards
 
-- Exam Participation Overview
-- Pass/Fail Trends
-- Student Performance Analysis
-- Exam Difficulty Insights
-- Question Bank Metrics
+### 📝 Exam Participation Overview
+Provides insights into the number of students participating in exams over time.
+
+![Exam Participation Overview](./screenshots/exam-overview.png)
+
+---
+
+### 📉 Pass/Fail Trends
+Visualizes trends in student performance, highlighting pass/fail distribution and patterns.
+
+![Pass/Fail Trends](./screenshots/pass-fail-trends.png)
+
+---
+
+### 📚 Student Performance Analysis
+Shows detailed student scores, averages, and performance breakdown by subject or exam.
+
+![Student Performance Analysis](PowerBI_Dashboards/Screenshot 2025-07-03 003858.png)
+
+---
+
+### 🧠 Exam Difficulty Insights
+Analyzes question difficulty levels and how students are performing per difficulty tier.
+
+![Exam Difficulty Insights](./screenshots/exam-difficulty.png)
+
+---
+
+### 🗃️ Question Bank Metrics
+Summarizes statistics on the question bank: usage frequency, topic coverage, and success rates.
+
+![Question Bank Metrics](./screenshots/question-bank.png)
 
 ## 👥 Team
 

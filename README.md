@@ -1,4 +1,4 @@
-# 🎓 Online Examination System - Graduation Project (ITI Power BI Track)
+# 🎓 Online Examination System - Graduation Project (ITI)
 
 ## 📌 Project Overview
 
@@ -60,35 +60,35 @@ The system simulates a digital exam platform and focuses on data handling, analy
 ### 📝 Exam Participation Overview
 Provides insights into the number of students participating in exams over time.
 
-![Exam Participation Overview](./screenshots/exam-overview.png)
+![Exam Participation Overview](PowerBI_Dashboards/ExamProgress.png)
 
 ---
 
 ### 📉 Pass/Fail Trends
 Visualizes trends in student performance, highlighting pass/fail distribution and patterns.
 
-![Pass/Fail Trends](./screenshots/pass-fail-trends.png)
+![Pass/Fail Trends](PowerBI_Dashboards/AtRiskStudents.png)
 
 ---
 
 ### 📚 Student Performance Analysis
 Shows detailed student scores, averages, and performance breakdown by subject or exam.
 
-![Student Performance Analysis](PowerBI_Dashboards/Screenshot 2025-07-03 003858.png)
+![Student Performance Analysis](PowerBI_Dashboards/StudentsDemographics.png)
 
 ---
 
 ### 🧠 Exam Difficulty Insights
 Analyzes question difficulty levels and how students are performing per difficulty tier.
 
-![Exam Difficulty Insights](./screenshots/exam-difficulty.png)
+![Exam Difficulty Insights](PowerBI_Dashboards/QuestionAnalysis.png)
 
 ---
 
-### 🗃️ Question Bank Metrics
-Summarizes statistics on the question bank: usage frequency, topic coverage, and success rates.
+### 🗃️ Top Performing Students
+Summarizes statistics on the students performing: usage frequency, topic coverage, and position-type frequent.
 
-![Question Bank Metrics](./screenshots/question-bank.png)
+![Top Performing Students](PowerBI_Dashboards/TopPerformingStudents.png)
 
 ## 👥 Team
 

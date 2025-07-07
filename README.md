@@ -90,9 +90,13 @@ Summarizes statistics on the students performing: usage frequency, topic coverag
 
 ![Top Performing Students](PowerBI_Dashboards/TopPerformingStudents.png)
 
-## 👥 Team
+## 👥 Team Members
 
-This project was developed by a team of 4 members as part of the ITI Power BI Development Track. Collaboration, organization, and shared commitment were key to delivering this solution.
+This project was developed by a team of 4 members as part of the ITI Power BI Development Track.
+Collaboration, organization, and shared commitment were key to delivering this solution.
+  - **Omar Ashraf**
+  - **Eslam Mohmed**
+  - **Mokhtar Sameh**
 
 ## 📝 Lessons Learned
 
